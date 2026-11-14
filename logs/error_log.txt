@@ -1,0 +1,1 @@
+[2026-11-13 20:20:09] [INFO] Generated TXT invoice file: C:\Users\USUARIO\Desktop\javamaven\Proyecto-ERP-para-el-Colegio-Little-Horizons-\invoices\factura_FAC-LH-TEST01.txt

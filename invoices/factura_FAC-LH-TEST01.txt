@@ -1,0 +1,44 @@
+================================================================================
+                    COLEGIO INTERNACIONAL LITTLE HORIZONS S.A.S.
+                              NIT: 901.458.789-3
+              Dirección: Calle 127 # 15-45, Bogotá
+                 Tel: (+57) 601 745 8900 | Email: contacto@littlehorizons.edu.co
+================================================================================
+                   FACTURA ELECTRÓNICA DE VENTA (TXT)
+Factura No.:       FAC-LH-TEST01                  Fecha Emisión: 2024-02-15
+Resolución DIAN:   No. 18760000001 de Habilitación para Factura Electrónica
+Prefijo Autorizado: FAC-LH  |  Rango: 000001 al 100000
+--------------------------------------------------------------------------------
+DATOS DEL ADQUIRIENTE (ACUDIENTE / RESPONSABLE):
+Nombre:            Carlos Eduardo Gómez
+Identificación:    CC/Doc 52123401
+Dirección:         Calle 134 # 19-45, Bogotá
+Estudiante:        Santiago Andrés Gómez
+--------------------------------------------------------------------------------
+DETALLE DE CONCEPTOS FACTURADOS:
+ÍTEM   DESCRIPCIÓN DEL CONCEPTO                   CANT   VR. UNIT     SUBTOTAL  
+--------------------------------------------------------------------------------
+01     Pensión Mensual Febrero 2024               1      $450000,00   $450000,00
+--------------------------------------------------------------------------------
+                  SUBTOTAL EXENTO DE IVA (ART. 476 E.T.): $  450.000,00
+                                                IVA (0%): $        0,00
+                                     VALOR TOTAL A PAGAR: $  450.000,00
+================================================================================
+INFORMACIÓN TRANSACCIONAL:
+Método de Pago:    Transferencia             Recibo de Caja: REC-2024-TEST01
+--------------------------------------------------------------------------------
+CÓDIGO ÚNICO DE FACTURA ELECTRÓNICA (CUFE):
+4dc90174bd6b9ce36ed031c5a8eacec8392a4d590a60d8e6b30918afae298f97
+--------------------------------------------------------------------------------
+REPRESENTACIÓN GRÁFICA DEL CÓDIGO QR DE VALIDACIÓN DIAN:
++------------------------------------------------------------------------------+
+| [QR CODE SIMULADO - LECTURA DIAN]                                            |
+| NumFac:FAC-LH-TEST01  | FecFac:2024-02-15 | NitFac:901.458.789-3     |
+| DocAdq:52123401       | ValFac:450000,00  | ValIva:0.00                              |
+| CUFE: 4dc90174bd6b9ce36ed031c5a8eacec8392a4d590a60d8e6b30918afae298f97       |
+| https://catalogo-vpfe.dian.gov.co/document/searchqr?documentkey=4dc90174bd6b9ce3... |
++------------------------------------------------------------------------------+
+Esta factura electrónica es un título valor simulado según las disposiciones
+legales vigentes del Decreto 2242 y la Resolución 000042 de la DIAN.
+Generado exitosamente por: Little Horizons ERP System (Módulo de Facturación)
+================================================================================
