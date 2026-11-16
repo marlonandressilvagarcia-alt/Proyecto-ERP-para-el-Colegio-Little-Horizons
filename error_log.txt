@@ -1,1 +1,59 @@
 [2026-11-13 20:20:09] [INFO] Generated TXT invoice file: C:\Users\USUARIO\Desktop\javamaven\Proyecto-ERP-para-el-Colegio-Little-Horizons-\invoices\factura_FAC-LH-TEST01.txt
+[2026-11-13 20:25:31] [INFO] Little Horizons ERP Application starting up...
+[2026-11-13 20:25:31] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-13 20:25:32] [WARN] Database connection check failed: Access denied for user 'root'@'172.18.0.1' (using password: NO)
+[2026-11-13 20:35:27] [INFO] Little Horizons ERP Application starting up...
+[2026-11-13 20:35:27] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-13 20:35:27] [WARN] Database connection check failed: Access denied for user 'root'@'172.18.0.1' (using password: NO)
+[2026-11-13 23:25:30] [INFO] Little Horizons ERP Application starting up...
+[2026-11-13 23:25:30] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-13 23:25:30] [WARN] Database connection check failed: Access denied for user 'root'@'172.18.0.1' (using password: NO)
+[2026-11-13 23:43:17] [INFO] Little Horizons ERP Application starting up...
+[2026-11-13 23:43:17] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-14 10:39:37] [INFO] Little Horizons ERP Application starting up...
+[2026-11-14 10:39:37] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-14 10:59:01] [INFO] Little Horizons ERP Application starting up...
+[2026-11-14 10:59:01] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-14 11:07:58] [INFO] Little Horizons ERP Application starting up...
+[2026-11-14 11:07:58] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-16 15:58:24] [INFO] Little Horizons ERP Application starting up...
+[2026-11-16 15:58:24] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-16 16:14:05] [ERROR] Error registering participant for event: 14
+java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`erp_little_horizons`.`participantes_evento`, CONSTRAINT `participantes_evento_ibfk_1` FOREIGN KEY (`id_evento`) REFERENCES `eventos` (`id_evento`) ON DELETE CASCADE)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:109)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:938)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1106)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1045)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1369)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1030)
+	at com.littlehorizons.erp.dao.impl.EventDAOImpl.registerParticipant(EventDAOImpl.java:98)
+	at com.littlehorizons.erp.service.ExtracurricularService.registerStudentInEvent(ExtracurricularService.java:100)
+	at com.littlehorizons.erp.controller.ExtracurricularController.registerInEvent(ExtracurricularController.java:95)
+	at com.littlehorizons.erp.controller.ExtracurricularController.run(ExtracurricularController.java:34)
+	at com.littlehorizons.erp.controller.MainController.start(MainController.java:54)
+	at com.littlehorizons.erp.Main.main(Main.java:20)
+[2026-11-16 16:14:48] [ERROR] Error registering participant for event: 36
+java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`erp_little_horizons`.`participantes_evento`, CONSTRAINT `participantes_evento_ibfk_1` FOREIGN KEY (`id_evento`) REFERENCES `eventos` (`id_evento`) ON DELETE CASCADE)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:109)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:938)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1106)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1045)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1369)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1030)
+	at com.littlehorizons.erp.dao.impl.EventDAOImpl.registerParticipant(EventDAOImpl.java:98)
+	at com.littlehorizons.erp.service.ExtracurricularService.registerStudentInEvent(ExtracurricularService.java:100)
+	at com.littlehorizons.erp.controller.ExtracurricularController.registerInEvent(ExtracurricularController.java:95)
+	at com.littlehorizons.erp.controller.ExtracurricularController.run(ExtracurricularController.java:34)
+	at com.littlehorizons.erp.controller.MainController.start(MainController.java:54)
+	at com.littlehorizons.erp.Main.main(Main.java:20)
+[2026-11-16 16:32:28] [INFO] Generated TXT invoice file: C:\Users\USUARIO\Desktop\javamaven\Proyecto-ERP-para-el-Colegio-Little-Horizons-\invoices\factura_FAC-LH-000011.txt
+[2026-11-16 16:32:28] [INFO] Electronic invoice generated successfully: FAC-LH-000011 -> invoices\factura_FAC-LH-000011.txt
+[2026-11-16 16:35:57] [INFO] Generated TXT invoice file: C:\Users\USUARIO\Desktop\javamaven\Proyecto-ERP-para-el-Colegio-Little-Horizons-\invoices\factura_FAC-LH-000012.txt
+[2026-11-16 16:35:57] [INFO] Electronic invoice generated successfully: FAC-LH-000012 -> invoices\factura_FAC-LH-000012.txt
+[2026-11-16 16:50:28] [INFO] Resource 37 lent to student ID: 36
+[2026-11-16 16:51:14] [INFO] Resource LIB-002 lent to teacher ID: 4
+[2026-11-16 16:52:15] [INFO] Student loan ID 11 returned successfully.
+[2026-11-16 16:52:48] [INFO] Teacher loan ID 9 returned successfully.
+[2026-11-16 16:56:01] [INFO] Little Horizons ERP Application shut down cleanly.

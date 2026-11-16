@@ -1,0 +1,44 @@
+37================================================================================
+                    COLEGIO INTERNACIONAL LITTLE HORIZONS S.A.S.
+                              NIT: 901.458.789-3
+              Dirección: Calle 127 # 15-45, Bogotá, Colombia
+                 Tel: (+57) 601 745 8900 | Email: contacto@littlehorizons.edu.co
+================================================================================
+                   FACTURA ELECTRÓNICA DE VENTA (TXT)
+Factura No.:       FAC-LH-000012                  Fecha Emisión: 2026-11-16
+Resolución DIAN:   No. 18760000001 de Habilitación para Factura Electrónica
+Prefijo Autorizado: FAC-LH  |  Rango: 000001 al 100000
+--------------------------------------------------------------------------------
+DATOS DEL ADQUIRIENTE (ACUDIENTE / RESPONSABLE):
+Nombre:            Guillermo Silva
+Identificación:    CC/Doc 79301474
+Dirección:         28 feb Los Alpes
+Estudiante:        Marlon Andres Silva Garcia
+--------------------------------------------------------------------------------
+DETALLE DE CONCEPTOS FACTURADOS:
+ÍTEM   DESCRIPCIÓN DEL CONCEPTO                   CANT   VR. UNIT     SUBTOTAL  
+--------------------------------------------------------------------------------
+01     Uniforme Institucional                     1      $280000,00   $280000,00
+--------------------------------------------------------------------------------
+                  SUBTOTAL EXENTO DE IVA (ART. 476 E.T.): $  280.000,00
+                                                IVA (0%): $        0,00
+                                     VALOR TOTAL A PAGAR: $  280.000,00
+================================================================================
+INFORMACIÓN TRANSACCIONAL:
+Método de Pago:    Transferencia             Recibo de Caja: REC-2026-57187
+--------------------------------------------------------------------------------
+CÓDIGO ÚNICO DE FACTURA ELECTRÓNICA (CUFE):
+0fe2982168b7c90b1b15146a3b4697610bd4ee43a52f771632f00ba84fd4846b
+--------------------------------------------------------------------------------
+REPRESENTACIÓN GRÁFICA DEL CÓDIGO QR DE VALIDACIÓN DIAN:
++------------------------------------------------------------------------------+
+| [QR CODE SIMULADO - LECTURA DIAN]                                            |
+| NumFac:FAC-LH-000012  | FecFac:2026-11-16 | NitFac:901.458.789-3     |
+| DocAdq:79301474       | ValFac:280000,00  | ValIva:0.00                              |
+| CUFE: 0fe2982168b7c90b1b15146a3b4697610bd4ee43a52f771632f00ba84fd4846b       |
+| https://catalogo-vpfe.dian.gov.co/document/searchqr?documentkey=0fe2982168b7c90b... |
++------------------------------------------------------------------------------+
+Esta factura electrónica es un título valor simulado según las disposiciones
+legales vigentes del Decreto 2242 y la Resolución 000042 de la DIAN.
+Generado exitosamente por: Little Horizons ERP System (Módulo de Facturación)
+================================================================================

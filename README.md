@@ -37,10 +37,9 @@ El **ERP Colegio Little Horizons** es una solución informática integral diseñ
 ---
 
 ## 3. Autores
-- **Equipo de Desarrollo Little Horizons ERP**
-- **Institución:** Colegio Internacional Little Horizons S.A.S.
-- **Correo Electrónico de Contacto:** `desarrollo@littlehorizons.edu.co` / `contacto@littlehorizons.edu.co`
-- **Ubicación:** Bogotá D.C., Colombia
+- **Marlon Andres Silva Garcia**
+- **Correo Electrónico de Contacto:** `marlonandressilvagarcia@gmail.com`
+- **Ubicación:** Cucuta, Norte de Sanatander, Colombia
 
 ---
 
