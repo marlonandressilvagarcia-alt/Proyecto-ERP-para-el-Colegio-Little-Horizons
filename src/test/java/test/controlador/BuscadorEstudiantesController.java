@@ -1,6 +1,7 @@
 package test.controlador;
 
 import com.littlehorizons.erp.config.DatabaseConfig;
+import com.littlehorizons.erp.util.LoggerUtil;
 import test.modelo.EstudianteDTO;
 
 import java.sql.Connection;
@@ -105,7 +106,7 @@ public class BuscadorEstudiantesController {
                 lista.add(dto);
             }
         } catch (SQLException e) {
-            System.err.println("Advertencia al consultar base de datos: " + e.getMessage());
+            LoggerUtil.error("Error al consultar estudiantes matriculados en 2025: " + e.getMessage(), e);
         }
         return lista;
     }

@@ -3,6 +3,7 @@ package com.littlehorizons.erp.controller;
 import com.littlehorizons.erp.model.StudentLoan;
 import com.littlehorizons.erp.model.TeacherLoan;
 import com.littlehorizons.erp.service.ReportService;
+import com.littlehorizons.erp.util.ConsoleFormatter;
 import com.littlehorizons.erp.util.InputValidator;
 import com.littlehorizons.erp.view.ReportView;
 
@@ -40,6 +41,13 @@ public class ReportController {
 
         List<ReportService.StudentPerformance> topStudents = reportService.getTopStudents(year, period, 5);
         reportView.displayHonorRoll(topStudents, period, year);
+
+        boolean exported = reportService.exportHonorRollToTxt(topStudents, period, year);
+        if (exported) {
+            System.out.println();
+            ConsoleFormatter.printSuccess("Reporte exportado exitosamente al archivo: cuadro_de_honor.txt");
+        }
+
         InputValidator.pressEnterToContinue();
     }
 
