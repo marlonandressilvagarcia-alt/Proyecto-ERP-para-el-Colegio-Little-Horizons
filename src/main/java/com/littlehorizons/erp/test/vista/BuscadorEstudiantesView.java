@@ -1,7 +1,7 @@
-package test.vista;
+package com.littlehorizons.erp.test.vista;
 
-import test.controlador.BuscadorEstudiantesController;
-import test.modelo.EstudianteDTO;
+import com.littlehorizons.erp.test.controlador.BuscadorEstudiantesController;
+import com.littlehorizons.erp.test.modelo.EstudianteDTO;
 
 import java.util.List;
 import java.util.Map;

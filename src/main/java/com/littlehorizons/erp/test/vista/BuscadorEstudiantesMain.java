@@ -1,4 +1,4 @@
-package test.vista;
+package com.littlehorizons.erp.test.vista;
 
 /**
  * Punto de entrada directo e independiente para la evaluación del Buscador Avanzado de Estudiantes.

@@ -1,8 +1,10 @@
-package test.controlador;
+package com.littlehorizons.erp.test.controlador;
+
+import com.littlehorizons.erp.test.modelo.EstudianteDTO;
 
 import com.littlehorizons.erp.config.DatabaseConfig;
 import com.littlehorizons.erp.util.LoggerUtil;
-import test.modelo.EstudianteDTO;
+import com.littlehorizons.erp.test.modelo.EstudianteDTO;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

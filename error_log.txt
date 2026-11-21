@@ -57,3 +57,14 @@ java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child 
 [2026-11-16 16:52:15] [INFO] Student loan ID 11 returned successfully.
 [2026-11-16 16:52:48] [INFO] Teacher loan ID 9 returned successfully.
 [2026-11-16 16:56:01] [INFO] Little Horizons ERP Application shut down cleanly.
+[2026-11-20 20:09:04] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-20 20:16:13] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-20 20:20:12] [INFO] Little Horizons ERP Application starting up...
+[2026-11-20 20:20:12] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-20 20:44:56] [INFO] Little Horizons ERP Application starting up...
+[2026-11-20 20:44:56] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-20 20:52:00] [INFO] Little Horizons ERP Application starting up...
+[2026-11-20 20:52:00] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-20 22:51:19] [INFO] Database properties loaded successfully from db.properties.
+[2026-11-20 22:52:43] [INFO] Little Horizons ERP Application starting up...
+[2026-11-20 22:52:43] [INFO] Database properties loaded successfully from db.properties.

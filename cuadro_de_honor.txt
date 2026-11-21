@@ -1,0 +1,16 @@
+================================================================================
+                    COLEGIO INTERNACIONAL LITTLE HORIZONS
+        CUADRO DE HONOR - EXCELENCIA ACADÉMICA (I - 2024)
+================================================================================
+Fecha de generación: 2026-11-20 22:53:21
+
+PUESTO ESTUDIANTE                       DOCUMENTO       PROMEDIO  
+--------------------------------------------------------------------------------
+#1     Joaquín Ignacio Rojas Bermúdez   TI 1012345691   5,00       / 5.0
+#2     Martín Alonso Medina Paredes     TI 1012345689   4,90       / 5.0
+#3     David Ricardo Cárdenas Valenzuela CC 1012345695   4,80       / 5.0
+#4     Antonia Carolina Jiménez Acosta  TI 1012345692   4,80       / 5.0
+#5     Emilio Tomás Morales Jiménez     TI 1012345685   4,80       / 5.0
+--------------------------------------------------------------------------------
+Total de estudiantes destacados: 5
+================================================================================

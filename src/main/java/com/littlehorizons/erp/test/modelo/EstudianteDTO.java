@@ -1,4 +1,4 @@
-package test.modelo;
+package com.littlehorizons.erp.test.modelo;
 
 /**
  * Data Transfer Object (DTO) que representa a un estudiante con su matrícula y grado
